@@ -7,6 +7,12 @@
     <title>Document</title>
   </head>
   <body>
+    <?php 
+    require_once("./test.php");
+    
+    ?>
+
     hello
+    
   </body>
 </html>
